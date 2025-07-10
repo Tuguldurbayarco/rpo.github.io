@@ -4,7 +4,7 @@ Once you've installed dependencies with `npm install` (or `pnpm install` or `yar
 
 ```bash
 npm run dev
-![tg](https://github.com/user-attachments/assets/e3b6279b-6071-419e-8a1f-29631675dd69)
+
 
 # or start the server and open the app in a new browser tab
 npm run dev -- --open
